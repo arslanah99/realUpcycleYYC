@@ -20,7 +20,8 @@ A ranking system was created that populates on the Upcycle Leaderboard Page. Thi
 2. Run migrations `rake db:migrate db:seed`.
 3. Start the server `rake start`.
 4. Visit `http://localhost:3002/`.
-
+5. View Live: 
+[UpcycleYYC](https://afternoon-tor-83860.herokuapp.com/)
 
 ### Dependencies
 
